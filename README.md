@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Smart-Bicycle-s-city
 =======
 # Flutter bicycle renting application with Firebase as the backend.
@@ -12,6 +13,9 @@
        - Used Provider for state management.
 ## Execute "flutter create ." in the app directory, then execute "flutter run". make sure to have an Android emulator, or plug your Android device into your computer.
 >>>>>>> 53359f5 (QR CODE Integration)
+=======
+# Smart-Bicycle-s-city
+>>>>>>> 568ca2a02ae3f97258fd7a648c4f23d97c4fc577
 =======
 # Smart-Bicycle-s-city
 >>>>>>> 568ca2a02ae3f97258fd7a648c4f23d97c4fc577
